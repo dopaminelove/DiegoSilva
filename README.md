@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Diego from Suzano<br><br>- 📚 Eu estudo programação.<br>- ⚡No meu tempo livre costumo jogar e estudar ...</p>
+<p align="left">Eu sou Diego de Suzano<br><br>- 📚 Eu estudo programação.<br>- ⚡No meu tempo livre costumo jogar e estudar ...</p>
 
 ###
 
