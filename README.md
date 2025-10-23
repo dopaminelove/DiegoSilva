@@ -25,13 +25,13 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg />
 </div>
 
 ###
